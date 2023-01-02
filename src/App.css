@@ -1,5 +1,15 @@
 .App {
-  text-align: center;
-  margin-top: 10%;
+  background-color: aquamarine;
+  padding: 10px;
 }
 
+.App li {
+  list-style: none;
+  display: inline;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.App li a {
+  text-decoration: none;
+}
